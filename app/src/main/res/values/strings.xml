@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">BloodBank</string>
+    <string name="app_title">Blood Bank Nepal</string>
+    <string name="app_slogan">Donate and save lives</string>
+    <string name="app_welcome_text">Hello, Welcome to Blood Bank Nepal</string>
+    <string name="app_welcome_user_type_text">What describes you best?</string>
+    <string name="donorBtn">Donor Registration</string>
+    <string name="receiverBtn">Receiver Registration</string>
+    <string name="userLoginBtn">Login</string>
+    <string name="app_signup">Sign Up to continue</string>
+    <string name="app_signin">Sign In to continue</string>
+    <string name="app_registered_user">Already Registered? Login</string>
+    <string name="app_non_registered_user">Not Registered? Register Here</string>
+    <string name="forgotPassword">Forgot Password</string>
+    <string name="hint_name">Enter full name</string>
+    <string name="hint_id">Enter ID number</string>
+    <string name="hint_phone">Enter phone number</string>
+    <string name="hint_email">Enter your email </string>
+    <string name="hint_password">Enter your password </string>
+    <string name="navigation_drawer_open">Open</string>
+    <string name="navigation_drawer_close">Close</string>
+
+    <string-array name="bloodGroups">
+        <item>Select your blood group</item>
+        <item>A+</item>
+        <item>A-</item>
+        <item>B+</item>
+        <item>B-</item>
+        <item>O+</item>
+        <item>O-</item>
+        <item>AB+</item>
+        <item>AB-</item>
+    </string-array>
+
+</resources>

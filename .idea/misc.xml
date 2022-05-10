@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/BloodBank/app/src/main/res/drawable-v24/buttons_background.xml" value="0.1165" />
+        <entry key="..\:/BloodBank/app/src/main/res/drawable-v24/header_background.xml" value="0.1165" />
+        <entry key="..\:/BloodBank/app/src/main/res/drawable-v24/ic_launcher_background.xml" value="0.1165" />
+        <entry key="..\:/BloodBank/app/src/main/res/drawable-v24/navigation_selector.xml" value="0.1165" />
+        <entry key="..\:/BloodBank/app/src/main/res/drawable-v24/navigation_view_item_selected.xml" value="0.1165" />
+        <entry key="..\:/BloodBank/app/src/main/res/drawable/buttons_background.xml" value="0.1" />
+        <entry key="..\:/BloodBank/app/src/main/res/drawable/header_background.xml" value="0.1165" />
+        <entry key="..\:/BloodBank/app/src/main/res/drawable/ic_baseline_home_24.xml" value="0.1165" />
+        <entry key="..\:/BloodBank/app/src/main/res/drawable/ic_email.xml" value="0.1" />
+        <entry key="..\:/BloodBank/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1165" />
+        <entry key="..\:/BloodBank/app/src/main/res/drawable/ic_password.xml" value="0.1" />
+        <entry key="..\:/BloodBank/app/src/main/res/drawable/ic_person.xml" value="0.1" />
+        <entry key="..\:/BloodBank/app/src/main/res/drawable/ic_phone.xml" value="0.1" />
+        <entry key="..\:/BloodBank/app/src/main/res/drawable/navigation_selector.xml" value="0.1165" />
+        <entry key="..\:/BloodBank/app/src/main/res/drawable/navigation_view_item_selected.xml" value="0.1165" />
+        <entry key="..\:/BloodBank/app/src/main/res/layout/activity_category_selected.xml" value="0.20606884057971014" />
+        <entry key="..\:/BloodBank/app/src/main/res/layout/activity_donor_register.xml" value="0.25" />
+        <entry key="..\:/BloodBank/app/src/main/res/layout/activity_login.xml" value="0.25" />
+        <entry key="..\:/BloodBank/app/src/main/res/layout/activity_main.xml" value="0.22" />
+        <entry key="..\:/BloodBank/app/src/main/res/layout/activity_profile.xml" value="0.20606884057971014" />
+        <entry key="..\:/BloodBank/app/src/main/res/layout/activity_recipient_register.xml" value="0.25" />
+        <entry key="..\:/BloodBank/app/src/main/res/layout/activity_register.xml" value="0.22" />
+        <entry key="..\:/BloodBank/app/src/main/res/layout/activity_splash_scren.xml" value="0.17074275362318841" />
+        <entry key="..\:/BloodBank/app/src/main/res/layout/header.xml" value="0.22" />
+        <entry key="..\:/BloodBank/app/src/main/res/layout/user_display.xml" value="0.20606884057971014" />
+        <entry key="..\:/BloodBank/app/src/main/res/menu/main_menu.xml" value="0.20833333333333334" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
